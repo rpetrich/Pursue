@@ -1,0 +1,7 @@
+entry = {
+  bundle = Pursue;
+  cell = PSLinkCell;
+  icon = icon.png;
+  isController = 1;
+  label = "Pursue";
+};
